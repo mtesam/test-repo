@@ -23,4 +23,7 @@ git checkout -b branchname
 git branch
 git checkout master
 
-
+### HELP ###
+- Git documentation: http://git-scm.com/doc
+- Github help: http://help.github.com
+- Google/Stack Overflow
