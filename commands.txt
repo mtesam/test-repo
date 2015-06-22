@@ -1,0 +1,26 @@
+# Set global variables
+
+git config --global user.name "username"
+git config --global user.email "email@address.com"
+git config --list
+
+# CD to folder and initialize git
+git init
+git remote add origin https://github.com/mtesam/test-repo.git
+
+
+git add
+git add -u
+git add -A
+
+git commit -m "message"
+
+git push
+
+git pull https://github.com/mtesam/test-repo.git
+
+git checkout -b branchname
+git branch
+git checkout master
+
+
